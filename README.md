@@ -56,7 +56,7 @@ Nome do Projeto<h3>tag
        
                                                      ###Finalidade<h3>
                                           
-          **Objetivo é fazer uma melhor interação entre Usuarios e as disciplinas, buscando informações para ajudar em uma possivel tomada de descisão**
+          **Objetivo é fazer uma melhor interação entre Usuarios e as disciplinas, buscando informações para ajudar em uma possivel tomada de descisão*
       
       
       
