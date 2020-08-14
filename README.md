@@ -53,6 +53,7 @@ Nome do Projeto<h3>tag
 	    @JoinTable(name = "disciplina_Usuario", joinColumns = @JoinColumn(name = "disciplina_Id"), inverseJoinColumns = @JoinColumn(name = "usuario_Email")
        
        *foi utilizado o @JsonIgnore para evitar possiveis ciclos infinitos entre as entidades*
+       *A quantidades de minutos em que o Token está válido, é de acordo, há uma pequena pesquisa, que amotra que a quantidade de minutos em que um usuario fica em uma plataforma dessa é de 5 minutos, esse é o tempo que vale o Token de validaçaõ*
        
                                                      ###Finalidade<h3>
                                           
